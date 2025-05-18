@@ -1,0 +1,9 @@
+openai
+gradio
+requests
+beautifulsoup4
+googlesearch-python
+googletrans==4.0.0rc1
+gtts
+deep_translator
+python-dotenv
