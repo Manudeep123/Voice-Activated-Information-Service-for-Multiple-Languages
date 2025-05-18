@@ -114,20 +114,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 🙋‍♂️ Author
 
-**Manu**  
-GitHub: [Manudeep123](https://github.com/Manudeep123)
-
----
-
-⭐ If you find this project useful, consider giving it a star!
-
-
-
-MIT License. See `LICENSE` file for details.
-
-## 🙋‍♂️ Author
 
 - Manu
 - GitHub: [Manudeep123](https://github.com/Manudeep123)
