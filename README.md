@@ -66,11 +66,7 @@ cd Voice-Activated-Information-Service-for-Multiple-Languages
 pip install -r requirements.txt
 ```
 
-If a `requirements.txt` is not available, install manually:
 
-```bash
-pip install openai gradio requests beautifulsoup4 googlesearch-python googletrans gtts deep_translator python-dotenv
-```
 
 ---
 
@@ -90,13 +86,13 @@ pip install openai gradio requests beautifulsoup4 googlesearch-python googletran
 You can run the chatbot directly from the Jupyter Notebook:
 
 ```bash
-jupyter notebook custom_chatbot.ipynb
+jupyter notebook custom_information.ipynb
 ```
 
 Or convert it to a script if needed and run:
 
 ```bash
-python custom_chatbot.py
+python custom_information.py
 ```
 
 The interface will open in your browser via Gradio. Enter a website URL, ask a question about its content, and hear the answer in your chosen language!
